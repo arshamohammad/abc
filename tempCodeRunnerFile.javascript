@@ -1,2 +1,1 @@
-console.log("hii");
-console.log("hlo");
+console.log("abcdefg");
